@@ -26,7 +26,7 @@ Ensure you have Python installed, then install the required dependencies listed 
 pip install -r requirements.txt
 ```
 ### Run the project
-Open the cloned repository in your preferred IDE (e.g., Jupyter Notebook, VSCode, or PyCharm). Locate and open the **CNN model.ipynb** file for the CNN model and **transfer learning ResNet50.ipynb** for transfer learning model, and then execute the code cells to run the project.
+Open the cloned repository in your preferred IDE (e.g., Jupyter Notebook, VSCode, or PyCharm). Locate and open the **dl models.ipynb** file for the CNN model, and then execute the code cells to run the project.
 
 ## Outputs
 Trained models: CNN model.h5 and....
